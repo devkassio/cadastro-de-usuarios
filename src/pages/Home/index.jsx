@@ -43,9 +43,7 @@ function Home() {
       <TopBackground />
 
       <Form action="">
-        <Title>
-          <h1>Cadastro de Usuários</h1>
-        </Title>
+        <Title>Cadastro de Usuários</Title>
 
         <ContainerInputs>
           <div>
